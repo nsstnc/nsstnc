@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @nsstnc
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nsstnc&layout=compact&theme=dark&langs_count=5)](https://wakatime.com/@nsstnc)
 
